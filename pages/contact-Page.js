@@ -65,7 +65,7 @@ const Contact = () => {
                 </div>
                 <div>
                     <a
-                        href="https://nerdcave.com/tailwind-cheat-sheet"
+                        href="https://ja-jp.facebook.com/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -81,7 +81,7 @@ const Contact = () => {
                 </div>
                 <div>
                     <a
-                        href="https://nerdcave.com/tailwind-cheat-sheet"
+                        href="https://github.co.jp/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
